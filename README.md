@@ -1,6 +1,6 @@
 # GeekExplosion
  
- O GeekExplosion foi um projeto desenvolvido por Valéria Vitória, Henrique Eduardo e Fabíola Santos como
+## O GeekExplosion foi um projeto desenvolvido por Valéria Vitória, Henrique Eduardo e Fabíola Santos como
  trabalho de conclusão da disciplina de Web Design com a impletação das linguagens HTML5 e CSS3.
 
 O site diz respeito a uma loja de roupas do Mundo Geek (séries, filmes, animes etc.) com o objetivo de 
