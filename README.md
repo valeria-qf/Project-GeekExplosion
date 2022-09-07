@@ -7,5 +7,4 @@
 #### Atualmente o mesmo consta com 6 páginas (Home, Login, Categorias, Produto, Carrinho, Sobre) responsivas que de adaptam a diversos tamanhos de tela.
 
 ## Página Home
-<<<<<<< HEAD
 <img src="SCREENSHOTS SITE\127.0.0.1_5501_HOME_index.html.png">
