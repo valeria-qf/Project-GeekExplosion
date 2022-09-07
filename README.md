@@ -1,7 +1,5 @@
 
 <img src="PROJETO-WEB-DESIGN\IMG\Icones\Geek.svg">
-=======
->>>>>>> da6b6a2336d4ba6982c36d91a4dcde7e25ebcf91
 # GeekExplosion
  
 #### O GeekExplosion foi um projeto desenvolvido por Valéria Vitória, Henrique Eduardo e Fabíola Santos como trabalho de conclusão da disciplina de Web Design com a impletação das linguagens HTML5 e CSS3.
