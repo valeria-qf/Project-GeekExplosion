@@ -7,6 +7,6 @@ O site diz respeito a uma loja de roupas do Mundo Geek (séries, filmes, animes 
 atrair o público jovem com produtos de qualidade e uma estética moderna e artística.
 
 Atualmente o mesmo consta com 6 páginas (Home, Login, Categorias, Produto, Carrinho, Sobre) responsivas
-que de adaptam a diversos tamanhos de tela. Visualize algumas telas <a href="SCREENSHOTS SITE" aqui! /a>
+que de adaptam a diversos tamanhos de tela.
 
 <img src="SCREENSHOTS SITE\127.0.0.1_5501_HOME_index.html.png">
